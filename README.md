@@ -1,1 +1,2 @@
-# GPU_accelarated_Multi_Agent_Tranjectory_Optimization
+# CS 769 course project
+This repositary contains the codebase for our peoject for CS769 (Optimization for Machine Learning)
